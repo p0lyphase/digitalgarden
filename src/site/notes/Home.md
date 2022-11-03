@@ -5,7 +5,8 @@
 
 ### Hello world!
 
-This is where we see if this *actually* works.
+This is where we see if this *actually* works. This is a [[digital garden\|digital garden]].
 
 ### Days with Notes
 [[2022-11-03\|2022-11-03]]
+
