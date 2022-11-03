@@ -10,3 +10,5 @@ This is where we see if this *actually* works. This is a [[digital garden\|digit
 ### Days with Notes
 [[2022-11-03\|2022-11-03]]
 
+## Misc. Stuff
+More to come here eventually.
