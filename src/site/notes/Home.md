@@ -11,4 +11,4 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 [[2022-11-03\|2022-11-03]]
 
 ### Misc. Stuff
-More to come here eventually.
+[[Gilbert Simondon\|Gilbert Simondon]]
