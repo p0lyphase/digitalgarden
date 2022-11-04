@@ -12,3 +12,5 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 
 ### Misc. Stuff
 [[Gilbert Simondon\|Gilbert Simondon]]
+[[Co-ops Under Capitalism\|Co-ops Under Capitalism]]
+[[TikTok - Response - ljtruth\|TikTok - Response - ljtruth]]
