@@ -27,9 +27,9 @@
 >	- Karl Marx, "The Inaugural Address of Karl Marx" [Found here](https://www.marxists.org/archive/marx/iwma/archive/eichhoff/iwma-history/ch03.htm)
 ### Notes
 
-On the subject of Utopianism, the reach for co-operatives is well-meaning but ultimately not up to the task of revolution in the sense of its class-meaning, i.e. one class against another. It seeks a "dual power" system as an interim but this isn't marked by antagonism, but rather, a kind of integration alongside the capitalist class.
+On the subject of Utopianism, the reach for co-operatives is well-meaning but ultimately not up to the task of revolution in the sense of its class-meaning, i.e. one class against another. It seeks a "dual power" system as an interim not marked by antagonism, but rather, a kind of integration alongside the capitalist class. There's power to share.
 
-On the matter of misdirection, based upon the above lack of antagonism, it avoids the central question of domination of capitalists as a class over the class of workers. There remains the fact that the goverment apparatus is wielded by the class in power and it is a goal for the working class to not just achieve economic power, but political power as well.
+On the matter of misdirection, based upon the above lack of antagonism, it avoids the central question of domination of capitalists as a class over the class of workers. There remains the fact that the government apparatus is wielded by the class in power and it is a goal for the working class to not just achieve economic power, but political power as well.
 
 This would include the actual apparatus of government and its functions.
 
