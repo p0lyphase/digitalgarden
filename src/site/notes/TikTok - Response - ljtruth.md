@@ -27,3 +27,5 @@ The workers' labor, from their bodies and minds, are property of the capitalists
 
 
 These differences between the capitalists and the workers are not arbitrary. They are subject to the same markets and world of economics, sure, but they are not playing the same game by any stretch. A forest has many paths, the ground dwellers differ from the branch swingers.
+
+![[/assets/Simondon Le cristal - Prises de forme et allures [7IzWVG3Fj7Q].webm]]
