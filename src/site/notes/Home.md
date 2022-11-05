@@ -9,9 +9,9 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 
 ### Days with Notes
 [[2022-11-03\|2022-11-03]]
+[[2022-11-04\|2022-11-04]]
 
 ### Misc. Stuff
 [[Gilbert Simondon\|Gilbert Simondon]]
 [[Co-ops Under Capitalism\|Co-ops Under Capitalism]]
 [[TikTok - Response - ljtruth\|TikTok - Response - ljtruth]]
-
