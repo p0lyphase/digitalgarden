@@ -30,3 +30,11 @@ His philosophy focuses on individuation and he makes arguments against the two d
 >
 >- Gilbert Simondon - "Individuation in Light of Notions of Form and Information" - pg 362
 
+>Prior to any particular category, there is the category of being, which is a response to the problem of individuation: to know how being can be thought, one must know how it individuates, for this individuation is the support of the validity of any logical operation that must conform to it.
+>
+>- Gilbert Simondon - "Individuation in Light of Notions of Form and Information" - pg 362
+
+>Thought is a certain mode of secondary individuation that intervenes after the fundamental individuation that constitutes the subject; thought is not necessarily capable of thinking being in its totality; it is second relative to the subject’s condition of existence;
+>
+>- Gilbert Simondon - "Individuation in Light of Notions of Form and Information" - pg 362
+
