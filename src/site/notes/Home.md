@@ -15,3 +15,5 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 [[Gilbert Simondon\|Gilbert Simondon]]
 [[Co-ops Under Capitalism\|Co-ops Under Capitalism]]
 [[TikTok - Response - ljtruth\|TikTok - Response - ljtruth]]
+[[Kant on Freedom\|Kant on Freedom]]
+[[Egoism Exploration\|Egoism Exploration]]
