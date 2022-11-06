@@ -15,3 +15,12 @@ His philosophy focuses on individuation and he makes arguments against the two d
 
 >[!NOTE] Substantialism
 >Substantialism is a concept that says that being is made up of one substance, reducible to some irreducible kind of matter, for example, atoms.
+
+## Quotes
+
+>To propose a conception of individuation as the genesis of an individu-
+ated being that is not the first element of the being is to be forced to indicate
+the meaning of the consequences that such a conception must have for the
+entirety of philosophical thought.
+- Gilbert Simondon - "Individuation in Light of Notions of Form and Information" - pg 361
+
