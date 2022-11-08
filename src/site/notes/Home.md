@@ -17,3 +17,4 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 [[TikTok - Response - ljtruth\|TikTok - Response - ljtruth]]
 [[Kant on Freedom\|Kant on Freedom]]
 [[Egoism Exploration\|Egoism Exploration]]
+[[Social Media, Structure and Operation of Communication\|Social Media, Structure and Operation of Communication]]
