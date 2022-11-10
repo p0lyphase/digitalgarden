@@ -6,7 +6,7 @@ Argument:
 
 [[Socialism\|Socialism]] and [[communism\|communism]] have a [[collectivist\|collectivist]] ethos and this is bad. [[Individualist\|Individualist]] ethos made [[America\|America]] prosperous.
 
-The Big Axiom: "assumes the fundamental basis on what the human is to be defined is their group identity, specifically their socioeconomic status, more broadly the oppressers versus the oppressed."
+The Big Axiom: "assumes the fundamental basis on what the human is to be defined is their group identity, specifically their socioeconomic status, more broadly the oppressors versus the oppressed."
 
 "People have many group identities."
 
@@ -27,5 +27,3 @@ The workers' labor, from their bodies and minds, are property of the capitalists
 
 
 These differences between the capitalists and the workers are not arbitrary. They are subject to the same markets and world of economics, sure, but they are not playing the same game by any stretch. A forest has many paths, the ground dwellers differ from the branch swingers.
-
-![[/assets/Simondon Le cristal - Prises de forme et allures [7IzWVG3Fj7Q].webm]]
