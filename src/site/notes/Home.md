@@ -12,9 +12,14 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 [[2022-11-04\|2022-11-04]]
 
 ### Misc. Stuff
+[[Animals and Humans\|Animals and Humans]]
+[[Marx, Capital, Subsumption of Labor\|Marx, Capital, Subsumption of Labor]]
 [[Gilbert Simondon\|Gilbert Simondon]]
+[[Earth, a Rock Floating in Space\|Earth, a Rock Floating in Space]]
 [[Co-ops Under Capitalism\|Co-ops Under Capitalism]]
 [[TikTok - Response - ljtruth\|TikTok - Response - ljtruth]]
 [[Kant on Freedom\|Kant on Freedom]]
 [[Egoism Exploration\|Egoism Exploration]]
 [[Social Media, Structure and Operation of Communication\|Social Media, Structure and Operation of Communication]]
+[[Modern Processes in Old Tech\|Modern Processes in Old Tech]]
+
