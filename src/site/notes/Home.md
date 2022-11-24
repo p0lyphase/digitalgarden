@@ -14,6 +14,7 @@ My Mastodon: <a rel="me" href="https://toot.marty.workisboring.com/@marty">Masto
 [[2022-11-04\|2022-11-04]]
 
 ### Misc. Stuff
+[[Values and the Search for Objectivity\|Values and the Search for Objectivity]]
 [[Animals and Humans\|Animals and Humans]]
 [[Marx, Capital, Subsumption of Labor\|Marx, Capital, Subsumption of Labor]]
 [[Gilbert Simondon\|Gilbert Simondon]]
