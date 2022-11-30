@@ -10,11 +10,15 @@ This is a [[digital garden\|digital garden]] that contains notes and pages writt
 My Mastodon: <a rel="me" href="https://toot.marty.workisboring.com/@marty">Mastodon</a>
 
 ### Days with Notes
+
 [[2022-11-03\|2022-11-03]]
 [[2022-11-04\|2022-11-04]]
 [[2022-11-29\|2022-11-29]] A Q&A With AI
 
 ### Misc. Stuff
+
+[[Allagmatics\|Allagmatics]]
+[[Simondon - Against Ideological Determinism\|Simondon - Against Ideological Determinism]]
 [[Values and the Search for Objectivity\|Values and the Search for Objectivity]]
 [[Animals and Humans\|Animals and Humans]]
 [[Marx, Capital, Subsumption of Labor\|Marx, Capital, Subsumption of Labor]]
