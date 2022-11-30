@@ -12,6 +12,7 @@ My Mastodon: <a rel="me" href="https://toot.marty.workisboring.com/@marty">Masto
 ### Days with Notes
 [[2022-11-03\|2022-11-03]]
 [[2022-11-04\|2022-11-04]]
+[[2022-11-29\|2022-11-29]] A Q&A With AI
 
 ### Misc. Stuff
 [[Values and the Search for Objectivity\|Values and the Search for Objectivity]]
