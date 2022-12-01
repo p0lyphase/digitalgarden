@@ -36,4 +36,4 @@
 			* transporting an operation of thought
 				* first tested on a particular known structure
 				* imparted to another particular unknown structure and object of reseach
-		* 
+		
