@@ -43,3 +43,4 @@
 					2. "creates the system of symbols that allows these possibilities to enter into mutual reaction."
 			2. 
 
+
