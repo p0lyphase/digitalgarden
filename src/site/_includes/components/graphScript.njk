@@ -110,21 +110,24 @@
                 ctx.fill();
 
                 const label = htmlDecode(node.title)
-                const fontSize = 6;
+                const fontSize = 3.5;
                 ctx.font = `${fontSize}px Sans-Serif`;
 
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'top';
-                ctx.fillStyle = getCssVar("--text-accent");
                 ctx.fillText(label, node.x, node.y + nodeR + 2);
             })
-            .linkColor(() => getCssVar("--text-normal"))
+            .linkColor(() => getCssVar("--text-muted") || getCssVar("--text-normal"))
             .graphData(gData)
             .onNodeClick(node => {
                 window.location = node.url;
             });
 
-        Graph.zoomToFit()
-        Graph.zoom(3)
+            setTimeout(() => {
+                Graph.zoomToFit();
+                Graph.zoom(3);
+            }, 10);
     }
+
+    renderGraph(320,320);
 </script>
