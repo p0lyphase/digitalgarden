@@ -14,10 +14,20 @@ My Mastodon: <a rel="me" href="https://toot.marty.workisboring.com/@marty">Masto
 [[2022-11-03\|2022-11-03]]
 [[2022-11-04\|2022-11-04]]
 [[2022-11-29\|2022-11-29]] A Q&A With AI
+[[2022-11-05\|2022-11-05]]
+[[2022-11-30\|2022-11-30]]
+[[2022-12-01\|2022-12-01]]
+[[2022-12-02\|2022-12-02]]
+[[2022-12-03\|2022-12-03]]
+
 
 ### Misc. Stuff
 
 [[Allagmatics\|Allagmatics]]
+[[AI Questions on Karl Marx\|AI Questions on Karl Marx]]
+[[AI Q&A on D&G and Simondon\|AI Q&A on D&G and Simondon]]
+[[AI Questions on Simondon and Locke\|AI Questions on Simondon and Locke]]
+[[AI Questions on Simondon's Notion of Phases of Being\|AI Questions on Simondon's Notion of Phases of Being]]
 [[Simondon - Against Ideological Determinism\|Simondon - Against Ideological Determinism]]
 [[Values and the Search for Objectivity\|Values and the Search for Objectivity]]
 [[Animals and Humans\|Animals and Humans]]
